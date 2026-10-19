@@ -1,0 +1,4 @@
+[wrap-git]
+url = https://code.videolan.org/videolan/checkasm.git
+revision = 0df02535c7435cf3969ca141c9e3ff7b1c1e6c28
+depth = 1

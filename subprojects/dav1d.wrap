@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://code.videolan.org/videolan/dav1d.git
+revision = d7a83f6e0f9360188a38ceae0883f3d132d87b47
+depth = 1
+
+[provide]
+dav1d = dav1d_dep

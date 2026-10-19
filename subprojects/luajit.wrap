@@ -1,0 +1,10 @@
+[wrap-file]
+directory = LuaJIT-dd3b24369ddfaa83c78cd6fdd91d157c8968ec8d
+source_url = https://github.com/LuaJIT/LuaJIT/archive/dd3b24369ddfaa83c78cd6fdd91d157c8968ec8d.tar.gz
+source_filename = luajit-dd3b24369ddfaa83c78cd6fdd91d157c8968ec8d.tar.gz
+source_hash = a6ac8457c474c6fb71aaa7660dd5bf8f6e0506496fc74786b2dae18e26a768cc
+patch_directory = luajit
+
+[provide]
+dependency_names = luajit
+program_names = luajit

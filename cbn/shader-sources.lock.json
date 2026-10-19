@@ -1,0 +1,7 @@
+[
+  {"path":"shaderc_cmake","url":"https://github.com/google/shaderc.git","revision":"ba3e587dbc13d423c713e964ac08e094731a034d"},
+  {"path":"shaderc_cmake/third_party/glslang","url":"https://github.com/KhronosGroup/glslang.git","revision":"e1b562a8bed273a02f30b59b66a5d499793cede5"},
+  {"path":"shaderc_cmake/third_party/spirv-headers","url":"https://github.com/KhronosGroup/SPIRV-Headers.git","revision":"04fd3caa1e8267e4d95c806cad901181728e1006"},
+  {"path":"shaderc_cmake/third_party/spirv-tools","url":"https://github.com/KhronosGroup/SPIRV-Tools.git","revision":"ef96ed763b43b59b33b31b362f09a02b729fa1c9"},
+  {"path":"spirv-cross-cmake","url":"https://github.com/KhronosGroup/SPIRV-Cross.git","revision":"300681bbcb8365a8d1eacdacdbdd0249bbf1d6b1"}
+]

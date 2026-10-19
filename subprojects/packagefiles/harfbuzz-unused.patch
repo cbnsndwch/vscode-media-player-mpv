@@ -1,0 +1,7 @@
+diff --git a/src/hb-ot-layout-gsubgpos.hh b/src/hb-ot-layout-gsubgpos.hh
+--- a/src/hb-ot-layout-gsubgpos.hh
++++ b/src/hb-ot-layout-gsubgpos.hh
+@@ -2398,2 +2398,2 @@
+-static bool
++static inline bool
+ context_depend_sets_are_cached (hb_depend_context_t *c,
